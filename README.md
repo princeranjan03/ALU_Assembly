@@ -26,11 +26,17 @@ printn – For printing New Line <br>
 ## Debugging-Test-Run
 EMU8086 emulator code interface
 ![image](https://github.com/princeranjan03/ALU_Assembly/blob/main/outputs/Screenshot%202024-04-27%20at%2012.41.39%E2%80%AFPM.png)<br><br>
-
+Assembled code interface
 ![image](https://github.com/princeranjan03/ALU_Assembly/blob/main/outputs/Screenshot%202024-04-27%20at%2012.41.50%E2%80%AFPM.png)<br><br>
+Output interface
 ![image](https://github.com/princeranjan03/ALU_Assembly/blob/main/outputs/Screenshot%202024-04-27%20at%2012.42.15%E2%80%AFPM.png)<br><br>
+Addition Operation (+)
 ![image](https://github.com/princeranjan03/ALU_Assembly/blob/main/outputs/Screenshot%202024-04-27%20at%2012.44.45%E2%80%AFPM.png)<br><br>
+Rotate left [ROL] Operation (<-)
 ![image](https://github.com/princeranjan03/ALU_Assembly/blob/main/outputs/Screenshot%202024-04-27%20at%2012.45.55%E2%80%AFPM.png)<br><br>
+And Operation (&)
 ![image](https://github.com/princeranjan03/ALU_Assembly/blob/main/outputs/Screenshot%202024-04-27%20at%2012.46.40%E2%80%AFPM.png)<br><br>
+Halted interface
 ![image](https://github.com/princeranjan03/ALU_Assembly/blob/main/outputs/Screenshot%202024-04-27%20at%2012.46.54%E2%80%AFPM.png)<br><br>
+Thank You!! (end interface)
 ![image](https://github.com/princeranjan03/ALU_Assembly/blob/main/outputs/Screenshot%202024-04-27%20at%2012.47.03%E2%80%AFPM.png)<br><br>

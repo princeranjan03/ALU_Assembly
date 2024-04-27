@@ -25,6 +25,6 @@ printn – For printing New Line <br>
 
 ## Debugging-Test-Run
 
-![image]()
+![image](outputs/Screenshot 2024-04-27 at 12.41.39 PM.png)
 
 

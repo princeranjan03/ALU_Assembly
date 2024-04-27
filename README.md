@@ -16,11 +16,11 @@ The calculator I've built performs simple mathematical operations such as additi
 
 ## Implementation:
 
-I used EMU8086.inc Library which provides built in functions such as:
-print ‘STRING’ – For printing String
-scan_num – For taking Integer Input
-print_num – For displaying value stored in register
-printn – For printing New Line 
+I used EMU8086.inc Library which provides built in functions such as:<br>
+print ‘STRING’ – For printing String<br>
+scan_num – For taking Integer Input<br>
+print_num – For displaying value stored in register<br>
+printn – For printing New Line <br>
 0dh and 0ah as well as print10 and print13 can also be used to move to new line.
 
 ## Debugging-Test-Run
